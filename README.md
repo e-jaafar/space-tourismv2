@@ -30,7 +30,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Krrish105/space-tourism](https://github.com/Krrish105/space-tourism)
 - Live Site URL: [http://Krrish105.github.io/space-tourism](http://Krrish105.github.io/space-tourism)
 
 ## My process
