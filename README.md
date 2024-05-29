@@ -45,11 +45,3 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 
-## Author
-
-- Frontend Mentor - [Krrish105](https://www.frontendmentor.io/profile/Krrish105)
-- Twitter - [_karishma10](https://twitter.com/_karishma10)
-- LinkedIn - [Karishma Garg](https://www.linkedin.com/in/karishma-garg-)
-- Codepen - [Krrish105](https://codepen.io/krrish105)
-# space-tourismv2
-# space-tourismv2
