@@ -22,7 +22,7 @@ export default function Technology(){
     window.onload = background("technology");
 
     // Data of Technology from data
-    const {name, images, description} = data.technology[technologyId];
+    const {name, description} = data.technology[technologyId];
     
     // Function to change technologyId onClick crew
     const change = (id) => {

@@ -22,7 +22,7 @@ export default function Destination(){
     window.onload = background("destination");
 
     // Data of Destination from data
-    const {name, images, description, distance, travel} = data.destinations[destinationId];
+    const {name, description, distance, travel} = data.destinations[destinationId];
     
     // Function to change destinationId onClick crew 
     const change = (id) => {

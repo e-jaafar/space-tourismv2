@@ -22,7 +22,7 @@ export default function Crew(){
     window.onload = background("crew");
 
     // Data of crew from data
-    const {name, images, role, bio} = data.crew[crewId];
+    const {name, role, bio} = data.crew[crewId];
 
     // Function to change crewId onClick crew 
     const change = (id) => {
