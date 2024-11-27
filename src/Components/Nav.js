@@ -36,7 +36,7 @@ export default function Nav(){
         <nav>
       
           {/* Logo */}
-          <a href="#">
+          <a href="#" onClick={(e) => e.preventDefault()}>
             <img src={logo} alt="Space Logo" />
           </a>
           <hr />
