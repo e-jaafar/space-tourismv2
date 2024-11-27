@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [http://Krrish105.github.io/space-tourism](http://Krrish105.github.io/space-tourism)
+- Live Site URL:[https://space-tourismv2-sand.vercel.app/](https://space-tourismv2-sand.vercel.app/)
 
 ## My process
 
